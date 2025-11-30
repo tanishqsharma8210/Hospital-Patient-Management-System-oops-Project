@@ -1,1 +1,1 @@
-# Ai-Hospital-Patient-Management-System-
+# Ai-Smart-Hospital-Management-System
